@@ -14,6 +14,7 @@ these steps:
 		$ git clone https://github.com/alexlincoln/icloud-http-client.git
 
 3. Install the `icloud-http-client` module
+
 		$ npm install /path/to/icloud-http-client
 
 ## Example
