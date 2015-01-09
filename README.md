@@ -49,7 +49,7 @@ Currently neither options supported as of yet,
 rather only specified to be included for future releases. See above an example.
 
 ## Available Plugins
-- `icloud-find-my-iphone-app` - Find My iPhone app
+- `icloud-find-my-iphone-app` - Find My iPhone app (https://github.com/alexlincoln/icloud-find-my-iphone-app)
 - `icloud-photos-app` - Photos app
 
 The following are coming soon:
