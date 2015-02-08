@@ -50,7 +50,7 @@ rather only specified to be included for future releases. See above an example.
 
 ## Available Plugins
 - `icloud-find-my-iphone-app` - Find My iPhone app (https://github.com/alexlincoln/icloud-find-my-iphone-app)
-- `icloud-photos-app` - Photos app
+- `icloud-photos-app` - Photos app (https://github.com/alexlincoln/icloud-photos-app)
 
 The following are coming soon:
 - `icloud-contacts-app` - Contacts app
